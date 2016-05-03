@@ -1,0 +1,9 @@
+main: me.legopal92.bountyhunter.BountyHunter
+name: BountyHunter
+version: 0.1a
+depend: [Vault]
+commands:
+  bh:
+    description: Base command for Gamblr plugin.
+    usage: /bh
+    aliases: [bountyhunter]
